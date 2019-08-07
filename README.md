@@ -2,6 +2,8 @@
 
 
 - run server `ruby server.rb`
+
+
 -run client `ruby client.rb`
 
 - you should see 
